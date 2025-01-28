@@ -1,4 +1,4 @@
-## Topsis-for-Pretrained-Models
+## TOPSIS Implementation for Sentence Similarity Models
 This project demonstrates the application of the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method to evaluate and rank pre-trained sentence similarity models based on their performance metrics
 
 ## Description
